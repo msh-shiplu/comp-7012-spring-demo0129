@@ -40,7 +40,6 @@
   - Status: Not started
   - Author: Shiplu
 
-
 - US Projects
   - Description: As a client, I should be able to post a new project, so that other developers can take and work on the project 
   - Dependencies: 
@@ -48,7 +47,6 @@
   - Priority: 10
   - Status: Not started
   - Author: Liangqun
-
 
 - US Project Budget
   - Description: As a project, there should be a budget about expected hours and money, so that the developers choose appropriate projects.  
