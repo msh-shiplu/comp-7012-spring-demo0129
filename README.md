@@ -163,9 +163,9 @@
   - Author: Alina Zaman
   
 - US Developer’s Advertisement
-  -Description: As a developer, I need to advertise my profile to the client so that they can found my profile on the top of the developer list
-  -Dependencies: Developer Login.
-  -Estimate: 1
-  -Priority: 5
-  -Status: Not Started
-  -Author: Alina Zaman
+  - Description: As a developer, I need to advertise my profile to the client so that they can found my profile on the top of the developer list
+  - Dependencies: Developer Login.
+  - Estimate: 1
+  - Priority: 5
+  - Status: Not Started
+  - Author: Alina Zaman
