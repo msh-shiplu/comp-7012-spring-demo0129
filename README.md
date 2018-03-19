@@ -169,3 +169,12 @@
   - Priority: 5
   - Status: Not Started
   - Author: Alina Zaman
+  
+- US Client’s List of Assigned Project with Developers Name
+  - Description: As a Client, I need to see my project list which I have assigned to a developer.
+  - Dependencies: Client Login.
+  - Estimate: 2
+  - Priority: 7
+  - Status: Not Started
+  - Author: Alina Zaman
+
