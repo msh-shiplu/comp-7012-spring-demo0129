@@ -85,77 +85,82 @@
   - Author: Liangqun
 
 
--US Client’s List of Open Projects
- -Description: A list of all open projects of a client for which a developer is required (can filter the search).
- -Dependencies: Developer’s login. 
- -Estimate: 2
- -Priority: 8
- -Status: Not Started
- Author: Ashok
+- US Client’s List of Open Projects
+ - Description: A list of all open projects of a client for which a developer is required (can filter the search).
+ - Dependencies: Developer’s login. 
+ - Estimate: 2
+ - Priority: 8
+ - Status: Not Started
+ - Author: Ashok
 
- -US Client's Search for Developers
--Description: A list of all available developers (can filter the search).
- -Dependencies: Client’s login.
- -Estimate: 3
- -Priority: 3
- -Status: Not Started
- Author: Ashok
+- US Client's Search for Developers
+  - Description: A list of all available developers (can filter the search).
+  - Dependencies: Client’s login.
+  - Estimate: 3
+  - Priority: 3
+  - Status: Not Started
+  - Author: Ashok
 
--US Developer’s Current list of projects
--Description: A list of all current working projects of a developer (can filter the search).
- -Dependencies: Developer’s login. 
- -Estimate: 3
- -Priority: 4
- -Status: Not Started
- Author: Ashok
+- US Developer’s Current list of projects
+ - Description: A list of all current working projects of a developer (can filter the search).
+ - Dependencies: Developer’s login. 
+ - Estimate: 3
+ - Priority: 4
+ - Status: Not Started
+ - Author: Ashok
 
--US Developer's search for Projects
--Description: A list of all current open projects (can filter the search).
- -Dependencies: Developer’s login.
- -Estimate: 4
- -Priority: 3
- -Status: Not Started
- Author: Ashok 
+- US Developer's search for Projects
+  - Description: A list of all current open projects (can filter the search).
+  - Dependencies: Developer’s login.
+  - Estimate: 4
+  - Priority: 3
+  - Status: Not Started
+  - Author: Ashok 
 
--US List of Clients
--Description: A list of all registered Clients and their descriptions.
--Dependencies: User login.
--Estimate: 3
--Priority: 6
--Status: Not Started
--Author: Ashok
+- US List of Clients
+ - Description: A list of all registered Clients and their descriptions.
+ - Dependencies: User login.
+ - Estimate: 3
+ - Priority: 6
+ - Status: Not Started
+ - Author: Ashok
 
--US List of Clients a Developer Previously worked
--Description: A list of clients for which a developer previously worked.
--Dependencies: Client Login.
--Estimate: 3
--Priority: 10
--Status: Not Started
--Author: Ashok
+- US List of Clients a Developer Previously worked
+ - Description: A list of clients for which a developer previously worked.
+ - Dependencies: Client Login.
+ - Estimate: 3
+ - Priority: 10
+ - Status: Not Started
+ - Author: Ashok
 
--US Assigning a Developer
--Description: As a client, I need to assign a developer to a project
--Dependencies: Client Login.
--Estimate: 1
--Priority: 10
--Status: Not Started
--Author: Alina Zaman
+- US Assigning a Developer
+ - Description: As a client, I need to assign a developer to a project
+ - Dependencies: Client Login.
+ - Estimate: 1
+ - Priority: 10
+ - Status: Not Started
+ - Author: Alina Zaman
 
--US Payment
--Description: As a client, I should be able to send a payment to the developer
--Dependencies: Client Login.
--Estimate: 7
--Priority: 3
--Status: Not Started
--Author: Alina Zaman
+- US Payment
+ - Description: As a client, I should be able to send a payment to the developer
+ - Dependencies: Client Login.
+ - Estimate: 7
+ - Priority: 3
+ - Status: Not Started
+ - Author: Alina Zaman
 
--US Screen Sharing
--Description: As a developer, I need to share my computer screen with my client so that she can assure that I am working on her project
--Dependencies: Client Login.
--Estimate: 1
--Priority: 10
--Status: Not Started
--Author: Alina Zaman
+- US Screen Sharing
+ - Description: As a developer, I need to share my computer screen with my client so that she can assure that I am working on her project
+ - Dependencies: Client Login.
+ - Estimate: 1
+ - Priority: 10
+ - Status: Not Started
+ - Author: Alina Zaman
 
-
-
+- US Screen Sharing
+ - Description: As a developer, I need to share my computer screen with my client so that she can assure that I am working on her project
+ - Dependencies: Client Login.
+ - Estimate: 7
+ - Priority: 2
+ - Status: Not Started
+ - Author: Alina Zaman
